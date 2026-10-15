@@ -59,14 +59,19 @@ All practical work is done in a segmented, host-only virtual lab so that nothing
 
 ### Target Practice Platforms
 
-| Target | Type | Status |
-|---|---|---|
-| DVWA | Web app (PHP/MySQL) | 🔲 Planned |
-| OWASP Juice Shop | Modern JS web app | 🔲 Planned |
-| OWASP WebGoat | Guided web vulnerabilities | 🔲 Planned |
-| bWAPP | Broad web bug coverage | 🔲 Planned |
-| Metasploitable 2 | Network / service exploitation | 🔲 Planned |
-| Hack The Box / TryHackMe | Authorized online labs & CTFs | 🔄 Ongoing |
+| Target | Source | Focus | Status |
+|---|---|---|---|
+| **VulnOS 2** | VulnHub | Web app exploitation → privilege escalation | 🔲 Planned |
+| **Metasploitable 2** | Rapid7 | Network / service enumeration & exploitation | 🔲 Planned |
+| **Kioptrix Level 1** | VulnHub | Classic legacy-service exploitation | 🔲 Planned |
+| **Mr-Robot: 1** | VulnHub | WordPress enumeration → privilege escalation | 🔲 Planned |
+| **DC-3** | VulnHub | CMS (Joomla) exploitation → privilege escalation | 🔲 Planned |
+| **DC-6** | VulnHub | WordPress exploitation → privilege escalation | 🔲 Planned |
+| **Empire: Lupin One** | VulnHub | Web enumeration → credential attacks → privilege escalation | 🔲 Planned |
+| **Matrix-Breakout 2: Morpheus** | VulnHub | Web enumeration → exploitation → privilege escalation | 🔲 Planned |
+| DVWA | OWASP-style practice app | Web vulnerabilities (SQLi, XSS, etc.) | 🔲 Planned |
+| OWASP Juice Shop | OWASP | Modern JS web app | 🔲 Planned |
+| Hack The Box / TryHackMe | Online platforms | Authorized labs & CTFs | 🔄 Ongoing |
 
 > Status legend: ✅ Completed · 🔄 In progress · 🔲 Planned
 
@@ -125,9 +130,14 @@ Each write-up follows a professional report format. Entries are added as I compl
 
 | # | Target | Vulnerability Class | Severity | Report |
 |---|---|---|---|---|
-| 01 | _DVWA_ | _SQL Injection / XSS_ | _—_ | _Coming soon_ |
-| 02 | _OWASP Juice Shop_ | _Broken Access Control_ | _—_ | _Coming soon_ |
-| 03 | _Metasploitable 2_ | _Service Exploitation_ | _—_ | _Coming soon_ |
+| 01 | _VulnOS 2_ | _Web app exploitation & privilege escalation_ | _—_ | _Coming soon_ |
+| 02 | _Metasploitable 2_ | _Service enumeration & exploitation_ | _—_ | _Coming soon_ |
+| 03 | _Kioptrix Level 1_ | _Legacy service exploitation_ | _—_ | _Coming soon_ |
+| 04 | _Mr-Robot: 1_ | _WordPress enumeration & privilege escalation_ | _—_ | _Coming soon_ |
+| 05 | _DC-3_ | _CMS exploitation_ | _—_ | _Coming soon_ |
+| 06 | _DC-6_ | _WordPress exploitation_ | _—_ | _Coming soon_ |
+| 07 | _Empire: Lupin One_ | _Enumeration & privilege escalation_ | _—_ | _Coming soon_ |
+| 08 | _Matrix-Breakout 2: Morpheus_ | _Enumeration & exploitation_ | _—_ | _Coming soon_ |
 
 ### Report Format
 
