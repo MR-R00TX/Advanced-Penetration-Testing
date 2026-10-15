@@ -65,13 +65,13 @@ All practical work is done in a segmented, host-only virtual lab so that nothing
 | **Metasploitable 2** | Rapid7 | Network / service enumeration & exploitation | 🔲 Planned |
 | **Kioptrix Level 1** | VulnHub | Classic legacy-service exploitation | 🔲 Planned |
 | **Mr-Robot: 1** | VulnHub | WordPress enumeration → privilege escalation | 🔲 Planned |
+| **DC-2** | VulnHub | WordPress enumeration → password cracking → privilege escalation | 🔲 Planned |
 | **DC-3** | VulnHub | CMS (Joomla) exploitation → privilege escalation | 🔲 Planned |
 | **DC-6** | VulnHub | WordPress exploitation → privilege escalation | 🔲 Planned |
 | **Empire: Lupin One** | VulnHub | Web enumeration → credential attacks → privilege escalation | 🔲 Planned |
 | **Matrix-Breakout 2: Morpheus** | VulnHub | Web enumeration → exploitation → privilege escalation | 🔲 Planned |
-| DVWA | OWASP-style practice app | Web vulnerabilities (SQLi, XSS, etc.) | 🔲 Planned |
-| OWASP Juice Shop | OWASP | Modern JS web app | 🔲 Planned |
-| Hack The Box / TryHackMe | Online platforms | Authorized labs & CTFs | 🔄 Ongoing |
+| **DVWA** | OWASP-style practice app | Web vulnerabilities (SQLi, XSS, etc.) | 🔲 Planned |
+| **OWASP Juice Shop** | OWASP | Modern JS web app | 🔲 Planned |
 
 > Status legend: ✅ Completed · 🔄 In progress · 🔲 Planned
 
