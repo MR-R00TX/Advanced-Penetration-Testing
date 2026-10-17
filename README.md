@@ -135,7 +135,7 @@ Each write-up follows a professional report format. Entries are added as I compl
 | 03 | _Kioptrix Level 1_ | _Legacy service exploitation_ | _—_ | _Coming soon_ |
 | 04 | _Mr-Robot: 1_ | _WordPress enumeration & privilege escalation_ | _—_ | _Coming soon_ |
 | 05 | _DC-2_ | _WordPress exploitation & privilege escalation_ | _—_ | _[View Report](https://github.com/MR-R00TX/Advanced-Penetration-Testing/tree/main/WordPress-Pentest)_ |
-| 06 | _DC-3_ | _CMS exploitation_ | _—_ | _Coming soon_ |
+| 06 | _DC-3_ | _CMS exploitation_ | _—_ | _[View Report](https://github.com/MR-R00TX/Advanced-Penetration-Testing/tree/main/Joomla-Pentest)_ |
 | 07 | _DC-6_ | _WordPress exploitation_ | _—_ | _Coming soon_ |
 | 08 | _Empire: Lupin One_ | _Enumeration & privilege escalation_ | _—_ | _Coming soon_ |
 | 09 | _Matrix-Breakout 2: Morpheus_ | _Enumeration & exploitation_ | _—_ | _Coming soon_ |
