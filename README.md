@@ -139,6 +139,7 @@ Each write-up follows a professional report format. Entries are added as I compl
 | 07 | _DC-6_ | _WordPress exploitation_ | _—_ | _Coming soon_ |
 | 08 | _Empire: Lupin One_ | _Enumeration & privilege escalation_ | _—_ | _[View Report](https://github.com/MR-R00TX/Advanced-Penetration-Testing/tree/main/Empire-Lupin-One-Red-Team-Operations)_ |
 | 09 | _Matrix-Breakout 2: Morpheus_ | _Enumeration & exploitation_ | _—_ | _Coming soon_ |
+| 10 | *Stapler* | *Enumeration & privilege escalation* | — | *Coming soon* |
 ### Report Format
 
 Every assessment includes:
